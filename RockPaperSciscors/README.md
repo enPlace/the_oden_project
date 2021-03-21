@@ -11,5 +11,7 @@ Rock beats Scissors
 Paper beats Rock 
 Scissors beats Paper
 
-
-if player 1 or player 2 has rock and player 1 or player 2 has scissors, return the player with Rock 
+Make rules for if player 1 gets a win over player 2
+make rules for if player 2 gets a win over player 1. 
+Should be six total conditions. 
+if player 1 == player 2, its a tie. 
